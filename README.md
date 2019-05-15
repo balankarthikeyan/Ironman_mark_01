@@ -12,6 +12,15 @@ git@github.com:balankarthikeyan/Ironman_mark_01.git#0.0.1
 
 ```
 
+
+```
+GIT_ASKPASS
+GIT_EXEC_PATH
+GIT_PROXY_COMMAND
+GIT_SSH
+GIT_SSH_COMMAND
+GIT_SSL_CAINFO GIT_SSL_NO_VERIFY
+```
 ```
 npm install git+ssh://git@github.com:npm/npm.git#v1.0.27
 npm install git+ssh://git@github.com:npm/npm#semver:^5.0
