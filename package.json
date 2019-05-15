@@ -1,0 +1,11 @@
+{
+  "name": "ronman_mark_01",
+  "version": "0.0.1",
+  "description": "mark 1",
+  "main": "index.js",
+  "author": "bk",
+  "license": "MIT",
+  "scripts" : {
+    "test" : "node test"
+  }
+}
